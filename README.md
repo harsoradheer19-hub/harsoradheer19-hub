@@ -23,12 +23,7 @@
 
 ### 🚀 Projects  
 
-Here are some of my recent works:  
-
-- 🔹 [**Portfolio Website**](#) – A personal website built with **HTML, CSS, JS** to showcase my skills and projects  
-- 🔹 [**Weather App**](#) – A simple web app using **JavaScript + API** to fetch real-time weather  
-- 🔹 [**C Programs Collection**](#) – A collection of C programs for problem-solving and practice  
-- 🔹 [**Machine Learning Mini-Projects**](#) – Small projects experimenting with ML algorithms (coming soon 🚀)  
+ 
 
 *(More projects will be added as I build them!)*  
 
