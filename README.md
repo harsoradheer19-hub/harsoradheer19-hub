@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there, I'm Dheer 👋  
 
-<!--
-**harsoradheer19-hub/harsoradheer19-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring AI & Data Science Engineer | Tech Enthusiast | Problem Solver**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 About Me  
+- 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**  
+- 💻 Skilled in **C, C++, Java, HTML, CSS, JavaScript**  
+- 📚 Currently learning **Python & Machine Learning**  
+- ⚡ Interested in **AI, Web Development, and Game Development**  
+- 🌱 Always curious to explore new technologies and build projects  
+
+---
+
+### 🛠️ Tech Stack  
+- **Languages:** C, C++, Java, Python, JavaScript  
+- **Web Development:** HTML, CSS, JS  
+- **Tools & Platforms:** Git, GitHub, VS Code  
+- **Learning:** Machine Learning, Data Structures & Algorithms  
+
+---
+
+### 🚀 Projects  
+
+Here are some of my recent works:  
+
+- 🔹 [**Portfolio Website**](#) – A personal website built with **HTML, CSS, JS** to showcase my skills and projects  
+- 🔹 [**Weather App**](#) – A simple web app using **JavaScript + API** to fetch real-time weather  
+- 🔹 [**C Programs Collection**](#) – A collection of C programs for problem-solving and practice  
+- 🔹 [**Machine Learning Mini-Projects**](#) – Small projects experimenting with ML algorithms (coming soon 🚀)  
+
+*(More projects will be added as I build them!)*  
+
+---
+
+### 📊 GitHub Stats  
+![Dheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsoradheer19-hub&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsoradheer19-hub&layout=compact&theme=tokyonight)
+
+---
+
+### 🌐 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/dheer-harsora-82900b32a/)  
+- 📧 harsoradheer19@gmail.com
+
+---
+⭐️ *“Code. Learn. Build. Repeat.”*
