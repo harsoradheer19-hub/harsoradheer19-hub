@@ -27,7 +27,7 @@
 - [Portfolio Website](https://harsoradheer19-hub.github.io/Portfolio-Webpage/)  
   🌐 Personal portfolio built with HTML, CSS, JS  
 
-- [To-Do List](https://github.com/harsoradheer19/todo-list)  
+- [To-Do List](https://harsoradheer19-hub.github.io/To_Do_LIST/)  
   ✨ A simple task manager with gradient UI  
 
 
