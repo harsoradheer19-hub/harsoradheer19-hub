@@ -30,7 +30,7 @@
 - [To-Do List](https://harsoradheer19-hub.github.io/To_Do_LIST/)  
   ✨ A simple task manager with gradient UI  
 
-- [Tic_Tac_Toe]([To-Do List](https://github.com/harsoradheer19-hub/Tic_Tac_Toe/releases/download/V1.0/TicTacToeAI.exe)  
+- [Tic_Tac_Toe](https://github.com/harsoradheer19-hub/Tic_Tac_Toe/releases/download/V1.0/TicTacToeAI.exe)  
   🎮 A simple tic_tac_toe game that you can play with your friends or a AI_BOT🤖
 
 
