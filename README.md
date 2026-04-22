@@ -24,7 +24,7 @@
 ### 🚀 Projects  
 ## 🚀 Projects
 
-- [Portfolio Website](https://harsoradheer19-hub.github.io/Portfolio-Webpage/)  
+- [Portfolio Website](https://harsoradheer19-hub.github.io/Portfolio-Web/)  
   🌐 Personal portfolio built with HTML, CSS, JS  
 
 - [To-Do List](https://harsoradheer19-hub.github.io/To_Do_LIST/)  
