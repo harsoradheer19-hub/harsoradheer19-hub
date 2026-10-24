@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:12372A,100:39D98A&height=200&section=header&text=DHEER%20HARSORA&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Developer%20%7C%20Builder&descAlignY=58&descSize=16" width="100%" alt="Dheer Harsora profile banner" />
+<img src="./profile-banner.svg" width="100%" alt="Dheer Harsora — AI & Data Science developer profile banner" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=39D98A&center=true&vCenter=true&width=650&lines=Building+useful+software+with+AI;Turning+ideas+into+working+projects;Learning+by+building+%26+collaborating" alt="Typing introduction" />
