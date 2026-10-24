@@ -1,85 +1,127 @@
-# Hi, I'm Dheer Harsora 👋
+<div align="center">
 
-### AI & Data Science Student | AI/ML Projects | Software Development
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:12372A,100:39D98A&height=200&section=header&text=DHEER%20HARSORA&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Developer%20%7C%20Builder&descAlignY=58&descSize=16" width="100%" alt="Dheer Harsora profile banner" />
 
-I'm an undergraduate student in Artificial Intelligence & Data Science who enjoys building practical software, exploring AI-powered applications, and collaborating on projects and hackathons.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=39D98A&center=true&vCenter=true&width=650&lines=Building+useful+software+with+AI;Turning+ideas+into+working+projects;Learning+by+building+%26+collaborating" alt="Typing introduction" />
+</a>
 
-- 🎓 Pursuing a B.Tech in Artificial Intelligence & Data Science
-- 🔭 Building projects across AI/ML, data-driven applications, and web development
-- 🌱 Continuously improving my Python, machine learning, and full-stack development skills
-- 🤝 Interested in internships, collaborative projects, and real-world problem solving
+<p>
+  <a href="https://github.com/harsoradheer19-hub"><img src="https://img.shields.io/badge/GitHub-harsoradheer19--hub-111827?style=for-the-badge&logo=github&logoColor=39D98A" alt="GitHub profile" /></a>
+  <a href="https://www.linkedin.com/in/dheer-harsora-82900b32a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=39D98A" alt="LinkedIn" /></a>
+  <a href="mailto:harsoradheer19@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=39D98A" alt="Email" /></a>
+</p>
 
----
-
-## 🛠️ Tech Stack
-
-- **Languages:** Python, C, C++, Java, JavaScript
-- **Web:** HTML5, CSS3, React, Vite
-- **AI & Data:** Machine learning fundamentals, data analysis, generative AI APIs
-- **Backend & Databases:** Supabase, MySQL, PHP
-- **Tools:** Git, GitHub, VS Code, REST APIs
-
-*Skills listed reflect technologies I've worked with or am actively learning; depth varies by technology.*
+</div>
 
 ---
 
-## 🚀 Selected Projects
+## `01 / ABOUT`
 
-### [EvolveX — AI Research Environment](https://github.com/harsoradheer19-hub/evoresearch)
-A research-workspace project focused on materials-science machine learning workflows, experiment tracking, reproducibility, and research analysis.
+> **AI & Data Science student focused on building practical software.**
 
-### [RoadSafe AI](https://github.com/harsoradheer19-hub/Roadsafe-)
-A road-safety web application exploring AI-assisted image analysis and safety insights.
+I'm an undergraduate B.Tech student exploring AI-powered applications, data-driven solutions, and web development. I enjoy taking an idea from a rough concept to a working prototype, especially through team projects and hackathons.
 
-### [Kisan Sarthi — Farmer Advisory App](https://github.com/harsoradheer19-hub/Kisan_Sarthi)
-A farmer-focused advisory project with crop recommendations, weather guidance, and a predefined-question support flow.
+- 🎓 Studying **Artificial Intelligence & Data Science**
+- 🧪 Exploring **machine learning, generative AI, and data analysis**
+- 🛠️ Building projects across **AI, web apps, and real-world problem solving**
+- 🤝 Open to **internships, collaborations, and learning opportunities**
 
-### [Portfolio Website](https://harsoradheer19-hub.github.io/Portfolio-Web/)
-A personal portfolio website built with HTML, CSS, and JavaScript.
+## `02 / TECH STACK`
 
-### [To-Do List](https://harsoradheer19-hub.github.io/To_Do_LIST/)
-A simple task manager for organizing tasks and tracking completion.
+<div align="center">
 
-### [Tic-Tac-Toe](https://github.com/harsoradheer19-hub/Tic_Tac_Toe)
-A Tic-Tac-Toe game with a playable game mode and AI opponent.
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,react,vite,php,mysql,supabase,git,github,vscode&theme=dark&perline=8" alt="Technologies and tools" />
 
----
+</div>
 
-## ⭐ Starred Repositories
+<p align="center">
+  <sub>Icons represent technologies I've used or am actively learning; experience levels vary.</sub>
+</p>
 
-A selection of repositories I've starred on GitHub, covering agriculture, AI agents, energy, and hackathon projects.
+## `03 / FEATURED BUILDS`
 
-- [Kisan Sarthi](https://github.com/harsoradheer19-hub/Kisan_Sarthi) — Farmer advisory application
-- [EvolveX](https://github.com/harsoradheer19-hub/evoresearch) — AI research environment
-- [vibecode-code4cause](https://github.com/harsoradheer19-hub/vibecode-code4cause) — Hackathon project
-- [insureflow](https://github.com/harsoradheer19-hub/insureflow) — Insurance-focused project
-- [hybrid-energy](https://github.com/harsoradheer19-hub/hybrid-energy) — Hybrid energy project
-- [twinos.](https://github.com/harsoradheer19-hub/twinos.) — Project repository
-- [Sovereign-Agentic-AI](https://github.com/harsoradheer19-hub/Sovereign-Agentic-AI) — Agentic AI project
-- [chandrayaan-2](https://github.com/harsoradheer19-hub/chandrayaan-2) — Chandrayaan-themed project
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🌱 Kisan Sarthi
+**Farmer Advisory Application**
 
-## 🏆 Collaboration & Hackathons
+Crop recommendations, weather guidance, a rule-based question flow, and a path to expert support.
 
-I enjoy working in teams to design, prototype, and build software solutions during hackathons and academic projects. I aim to keep improving both my technical implementation and how I communicate project decisions.
+[↗ View repository](https://github.com/harsoradheer19-hub/Kisan_Sarthi)
 
----
+</td>
+<td width="50%" valign="top">
 
-## 📈 GitHub Activity
+### 🧬 EvolveX
+**AI Research Environment**
 
-![Dheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsoradheer19-hub&show_icons=true&theme=tokyonight)
+A materials-science research workflow concept focused on ML experiments, reproducibility, and research analysis.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsoradheer19-hub&layout=compact&theme=tokyonight)
+[↗ View repository](https://github.com/harsoradheer19-hub/evoresearch)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## 🌐 Connect With Me
+### 🛣️ RoadSafe AI
+**Road Safety Web Application**
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/dheer-harsora-82900b32a/)
-- 💻 [GitHub](https://github.com/harsoradheer19-hub)
-- 📧 harsoradheer19@gmail.com
+A web project exploring AI-assisted image analysis and road-safety insights.
 
----
+[↗ View repository](https://github.com/harsoradheer19-hub/Roadsafe-)
 
-⭐ *Build. Learn. Iterate.*
+</td>
+<td width="50%" valign="top">
+
+### 💻 Portfolio & Mini Projects
+**Web Development**
+
+A portfolio, task-list app, and Tic-Tac-Toe project built while strengthening web fundamentals.
+
+[↗ Portfolio](https://harsoradheer19-hub.github.io/Portfolio-Web/) · [↗ To-Do List](https://harsoradheer19-hub.github.io/To_Do_LIST/) · [↗ Tic-Tac-Toe](https://github.com/harsoradheer19-hub/Tic_Tac_Toe)
+
+</td>
+</tr>
+</table>
+
+## `04 / GITHUB ANALYTICS`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=harsoradheer19-hub&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39D98A&icon_color=39D98A&text_color=E6EDF3&rank_icon=github" alt="GitHub profile stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsoradheer19-hub&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D98A&text_color=E6EDF3" alt="Most used languages" />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=harsoradheer19-hub&hide_border=true&background=0D1117&ring=39D98A&fire=39D98A&currStreakLabel=39D98A&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="GitHub contribution streak" />
+
+</div>
+
+## `05 / STARRED REPOSITORIES`
+
+A few repositories I've starred across AI, hackathons, energy, and other project ideas.
+
+- [Kisan Sarthi](https://github.com/harsoradheer19-hub/Kisan_Sarthi) · [EvolveX](https://github.com/harsoradheer19-hub/evoresearch)
+- [vibecode-code4cause](https://github.com/harsoradheer19-hub/vibecode-code4cause) · [insureflow](https://github.com/harsoradheer19-hub/insureflow)
+- [hybrid-energy](https://github.com/harsoradheer19-hub/hybrid-energy) · [twinos.](https://github.com/harsoradheer19-hub/twinos.)
+- [Sovereign-Agentic-AI](https://github.com/harsoradheer19-hub/Sovereign-Agentic-AI) · [chandrayaan-2](https://github.com/harsoradheer19-hub/chandrayaan-2)
+
+## `06 / LET'S CONNECT`
+
+<div align="center">
+
+**Have an interesting idea or project? Let's connect.**
+
+<a href="https://www.linkedin.com/in/dheer-harsora-82900b32a/"><img src="https://img.shields.io/badge/LinkedIn-39D98A?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="LinkedIn" /></a>
+<a href="https://github.com/harsoradheer19-hub"><img src="https://img.shields.io/badge/GitHub-39D98A?style=for-the-badge&logo=github&logoColor=0D1117" alt="GitHub" /></a>
+<a href="mailto:harsoradheer19@gmail.com"><img src="https://img.shields.io/badge/Email-39D98A?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email" /></a>
+
+<br/>
+
+<sub>Build boldly · Learn continuously · Iterate often</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39D98A,50:12372A,100:0D1117&height=100&section=footer" width="100%" alt="" />
+
+</div>
