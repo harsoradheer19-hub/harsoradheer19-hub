@@ -45,6 +45,21 @@ A Tic-Tac-Toe game with a playable game mode and AI opponent.
 
 ---
 
+## ⭐ Starred Repositories
+
+A selection of repositories I've starred on GitHub, covering agriculture, AI agents, energy, and hackathon projects.
+
+- [Kisan Sarthi](https://github.com/harsoradheer19-hub/Kisan_Sarthi) — Farmer advisory application
+- [EvolveX](https://github.com/harsoradheer19-hub/evoresearch) — AI research environment
+- [vibecode-code4cause](https://github.com/harsoradheer19-hub/vibecode-code4cause) — Hackathon project
+- [insureflow](https://github.com/harsoradheer19-hub/insureflow) — Insurance-focused project
+- [hybrid-energy](https://github.com/harsoradheer19-hub/hybrid-energy) — Hybrid energy project
+- [twinos.](https://github.com/harsoradheer19-hub/twinos.) — Project repository
+- [Sovereign-Agentic-AI](https://github.com/harsoradheer19-hub/Sovereign-Agentic-AI) — Agentic AI project
+- [chandrayaan-2](https://github.com/harsoradheer19-hub/chandrayaan-2) — Chandrayaan-themed project
+
+---
+
 ## 🏆 Collaboration & Hackathons
 
 I enjoy working in teams to design, prototype, and build software solutions during hackathons and academic projects. I aim to keep improving both my technical implementation and how I communicate project decisions.
